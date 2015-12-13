@@ -1,0 +1,5 @@
+expectations:
+ - inspection: HasBinding
+   binding: esResultadoPar
+ - inspection: HasComposition
+   binding: esResultadoPar

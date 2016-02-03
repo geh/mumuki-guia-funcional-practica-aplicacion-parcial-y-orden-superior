@@ -6,3 +6,5 @@ expectations:
   inspection: Not:HasUsage:flip
 - binding: darVuelta
   inspection: HasTypeSignature
+- binding: ''
+  inspection: ''

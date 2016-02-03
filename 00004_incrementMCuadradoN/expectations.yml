@@ -1,6 +1,4 @@
 ---
 expectations:
-- binding: existsAny
-  inspection: HasBinding
 - binding: ''
   inspection: ''

@@ -1,4 +1,4 @@
-﻿Definir una función **esResultadoPar**/2, que invocándola con número n y otro m,
+﻿Definir una función `esResultadoPar`, que aplicándola con número n y otro m,
 devuelve true si el resultado de elevar n a m es par.
 
 ```haskell

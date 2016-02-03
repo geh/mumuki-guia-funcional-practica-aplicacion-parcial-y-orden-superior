@@ -4,3 +4,5 @@ expectations:
   inspection: Not:HasComposition
 - binding: componer
   inspection: HasBinding
+- binding: componer
+  inspection: Not:HasUsage:.

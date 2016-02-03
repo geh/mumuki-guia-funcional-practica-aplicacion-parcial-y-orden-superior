@@ -1,5 +1,5 @@
-Definir la función ```aplicarPar/2```, que recibe una función y dos valores par, y devuelve el par que 
-resulta de aplicar la función a dos valores.
+Definir la función ```aplicarPar/2```, que recibe una función y dos valores, y devuelve un **par** que 
+resulta de aplicar la función a los dos valores.
 
 ```haskell
 Main> aplicarPar doble 3 12
@@ -10,3 +10,5 @@ Main> aplicarPar doble 3 12
 Main> aplicarPar even 3 12
 (False, True)
 ```
+
+_Y acordate... siempre podés mirar la ayuda_

@@ -1,1 +1,8 @@
-Esta es la práctica de Aplicación Parcial y Orden Superior.
+Es hora de juntar todo lo visto hasta acá:
+
+  * tipos
+  * orden superior
+  * aplicación parcial
+  * composición
+  
+A practicar :muscle:

@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: componer
+  inspection: Not:HasComposition
+- binding: componer
+  inspection: HasBinding

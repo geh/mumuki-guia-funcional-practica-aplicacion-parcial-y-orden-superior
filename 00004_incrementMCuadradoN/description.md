@@ -1,4 +1,4 @@
-﻿Definir una función `incrementMCuadradoN`, que invocándola con 2 números m y n, devuelve 
+Definí una función `incrementMCuadradoN`, que aplicándola con 2 números m y n, devuelve 
 incrementa en n al cuadrado de m por Ej: 
 
 ```haskell

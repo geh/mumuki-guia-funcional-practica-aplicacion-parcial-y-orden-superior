@@ -10,5 +10,3 @@ expectations:
   inspection: HasUsage:inversa
 - binding: inversa
   inspection: Not:HasBinding
-- binding: ''
-  inspection: ''

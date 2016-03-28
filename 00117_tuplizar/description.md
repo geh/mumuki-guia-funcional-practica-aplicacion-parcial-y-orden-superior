@@ -12,5 +12,5 @@ True  -- porque el primer elemento del
       -- par es igual al segundo
 
 ム (tuplizar (==)) ('a', 'b')
-True  -- porque el primer elemento del par
+False  -- porque el primer elemento del par
       -- es diferente al segundo

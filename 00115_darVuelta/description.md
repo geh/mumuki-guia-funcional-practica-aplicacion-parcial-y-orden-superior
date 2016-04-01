@@ -3,7 +3,7 @@ Definir la función `darVuelta` que toma una función de dos argumentos y devuel
 Ejemplo: 
 
 ```haskell
-ム (darVuelta (/)) 1 2
+ム darVuelta (/) 1 2
 2 -- porque dio vuelta los parámetros, 
 -- y terminó haciendo 2/1 en lugar de 1/2
 ```

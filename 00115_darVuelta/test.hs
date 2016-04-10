@@ -14,5 +14,5 @@ describe "darVuelta" $ do
   it "darVuelta take [1..10] 3 == [1..3]" $ do 
      darVuelta take [1..10] 3 `shouldBe` [1..3]
      
-  it "darVuelta (\ n lista-> even (length lista + n)) [1..10] 1 == False" $ do
+  it "darVuelta (\\ n lista-> even (length lista + n)) [1..10] 1 == False" $ do
     darVuelta (\ n lista-> even (length lista + n)) [1..10] 1 `shouldBe` False

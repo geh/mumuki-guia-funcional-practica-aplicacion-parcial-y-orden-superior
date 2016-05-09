@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: incrementMCuadradoN
+  inspection: HasBinding
+- binding: incrementMCuadradoN
+  inspection: Not:HasLambda
+- binding: incrementMCuadradoN
+  inspection: HasComposition
